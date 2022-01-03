@@ -1,5 +1,5 @@
 # React Template
-Rick and Morty app developed with Next.js and Typescript
+React template for Nucba students
 
 ## Run
 ```
